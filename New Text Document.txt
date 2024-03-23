@@ -1,0 +1,5 @@
+   margin-top: 150px;
+            margin-left: 80px;
+            position: absolute;
+            width: 320px; /* Adjust width as needed */
+            height: 320px;
